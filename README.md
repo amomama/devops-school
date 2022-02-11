@@ -1,4 +1,4 @@
-### DevOps School: кейс
+### Genesis DevOps School: кейс
 
 Розгорнути WordPress на віртуальній машині однією командою в терміналі
 
